@@ -1,0 +1,4 @@
+nmap==0.0.1
+Pillow==9.1.0
+pyhunter==1.7
+python_nmap==0.7.1
